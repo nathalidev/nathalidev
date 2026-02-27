@@ -8,4 +8,4 @@
 
 📫 Contato:
 - LinkedIn: https://linkedin.com/in/nathãlidório-7a68a32a4
--Email: nathalidorio@gmail.com
+- Email: nathalidorio@gmail.com
