@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Nathã
 
-💻 Desenvolvedor Trainee  
+💻 Desenvolvedor Junior  
 🧠 Python | Frappe Framework | JavaScript | HTML | CSS  
 🏢 Atuação com sistemas ERP e manutenção de aplicações
 
